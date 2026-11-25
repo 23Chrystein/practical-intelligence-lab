@@ -1,4 +1,3 @@
-
 # Project 001: Small Business Intelligence Toolkit
 
 ## 1. Background
